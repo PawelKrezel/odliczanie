@@ -1,0 +1,21 @@
+table
+{
+	position: absolute;
+	bottom: 50%;
+	left: 30%
+}
+td
+{
+	text-align: center;
+	color: #ffffff;
+	width: 70px;
+	background-color: #000000;
+	opacity: 0.8;
+}
+body
+{
+	background-color: #000000;
+	background-image: url('1.jpg'); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
