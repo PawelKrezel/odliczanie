@@ -1,8 +1,5 @@
-table
-{
-	position: absolute;
-	bottom: 50%;
-	left: 30%
+table {
+    margin: 250px auto;
 }
 td
 {
@@ -18,4 +15,12 @@ body
 	background-image: url('Screenshot_20190313-234108.png'); 
 	background-size: 100%;
 	background-repeat: no-repeat;
+}
+@media only screen and (max-width: 550px)
+{
+	table
+	{
+		font-size: 4vw;
+		left: 
+	}
 }
